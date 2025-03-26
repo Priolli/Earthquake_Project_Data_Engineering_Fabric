@@ -1,8 +1,9 @@
 # Earthquake_Project_Data_Engineering_Fabric
 Data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences.
 
-Ingesting Earthquake events data from usgs.
-https://www.usgs.gov/programs/earthquake-hazards
+Power Bi Dashboard on Fabric: https://app.fabric.microsoft.com/links/PxK3aYkNLB?ctid=e4bd69ff-e6f7-4c2e-b247-41b54ba2490e&pbi_source=linkShare
+
+Ingesting Earthquake events data from usgs: https://www.usgs.gov/programs/earthquake-hazards
 
 Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
 
@@ -31,6 +32,8 @@ place_description: A string describing the location of the event.
 sig: A bigint (large integer) representing the significance score of the event.
 
 mag: A double indicating the magnitude of the earthquake.
+
+
 
 magType: A string describing the type of magnitude scale used.
 
